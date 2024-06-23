@@ -1,10 +1,18 @@
 # Admin Dashboard
 
-This project is a fully-featured React Admin Dashboard application designed for a smooth user experience and seamless integration, built with _Syncfusion React UI components_ and _Tailwind CSS_.
+This project is a fully-featured React Admin Dashboard application designed for a smooth user experience and seamless integration, built with **Syncfusion React UI components** and **Tailwind CSS**.
 
 ## Features
 
--_Customizable Themes_: Switch between light and dark themes, or create your own theme with a variety of color options. -_Interactive Elements_: 1. _Tables_: You can delete users (dynamic table). 2. _Charts_: Visualize your data with interactive charts and graphs. 3. _Calendar_: Manage events and appointments with a user-friendly calendar interface. 4. _Kanban Board_: Organize tasks and track progress using a dynamic Kanban board. 5. _Seamless Integration_: All components work together seamlessly for a cohesive user experience.
+-**Customizable Themes**: Switch between light and dark themes, or create your own theme with a variety of color options.
+
+-**Interactive Elements**:
+
+    1. **Tables**: You can delete users (dynamic table).
+    2. **Charts**: Visualize your data with interactive charts and graphs.
+    3. **Calendar**: Manage events and appointments with a user-friendly calendar interface.
+    4. **Kanban Board**: Organize tasks and track progress using a dynamic Kanban board.
+    5. **Seamless Integration**: All components work together seamlessly for a cohesive user experience.
 
 ## Acknowledgement
 
